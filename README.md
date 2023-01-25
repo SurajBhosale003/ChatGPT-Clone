@@ -1,4 +1,5 @@
 # ChatGPT-Clone
+https://www.linkedin.com/posts/suraj-bhosale003_chatgpt-javascript-github-activity-7023864324360183808-L1O-?utm_source=share&utm_medium=member_desktop
 -----------------------------------------------------------------------------
 Download And Install : https://nodejs.org/en/download/ [ For npm Commands ]
 -----------------------------------------------------------------------------
